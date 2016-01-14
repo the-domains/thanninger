@@ -1,7 +1,7 @@
 name: Thanninger
 favicon: null
-layout_spectrum: 0.9239532053470612
-typography_spectrum: 0.3950317066628486
+layout_spectrum: 0.80774
+typography_spectrum: 0.13678
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.44951944262720644
+  brandStrength: 0.375
   lightness: 0.9820200006943196
   saturation: 0.3920009802095592
   rhythmicContrast: 0.2585869440808892
