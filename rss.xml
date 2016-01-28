@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thanninger]]></title>
         <description><![CDATA[Thanninger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thanninger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 19:15:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 19:17:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thanninger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[David Bowie - Heroes (live)]]></title>
+            <description><![CDATA[<article><h1>David Bowie - Heroes (live)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c443dc629ffcfd2b9db1c3e1869d983f45809695.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=YYjBQKIOb-w</link>
+            <guid isPermaLink="false">074ec86a-45a6-4ed1-af6b-3d2f25c1d556</guid>
+            <pubDate>Thu, 28 Jan 2016 19:17:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bass Unterricht.]]></title>
             <description><![CDATA[<article><h1>Bass Unterricht.</h1><p>Ich spiele seit fast 20 Jahren Bass. Habe es aber nie richtig gelernt. 2016 ändert sich das. </p></article>]]></description>
-            <link>undefinedbass-unterricht/index.html</link>
+            <link>https://thegrid.ai/thanninger/bass-unterricht/index.html</link>
             <guid isPermaLink="false">3215cb61-4899-438b-a58e-2af0f7039cf6</guid>
             <pubDate>Thu, 28 Jan 2016 19:14:37 GMT</pubDate>
         </item>
