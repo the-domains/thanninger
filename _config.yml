@@ -1,3 +1,16 @@
+layout_spectrum: 0.911001629428938
+typography_spectrum: 0.3637826421763748
+color:
+  saturation: 0.7120652911253273
+  lightness: 0.49117944901809096
+  brandStrength: 0.01527991727925837
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+  rhythmicContrast: 0.42171172657981515
 title: Thanninger
 purpose: []
 collections:
@@ -12,17 +25,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3920009802095592
-  lightness: 0.9820200006943196
-  brandStrength: 0.7741935
-  brandColors:
-    - '#DFD9CE'
-    - '#9A9A91'
-    - '#424440'
-    - '#4A6D9B'
-    - '#FC6C70'
-  rhythmicContrast: 0.2585869440808892
 cta:
   bucket: null
   version: null
@@ -37,5 +39,3 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.13678
-layout_spectrum: 0.80774
